@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "About"
 # date: year-month-day
 type: 
@@ -11,4 +11,4 @@ authors:
     - Second
 
 draft: false
---- -->
+---
