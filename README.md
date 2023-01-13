@@ -1,6 +1,6 @@
-# Sourgough Starter
+# Portfolio
 
-Like a sourdough starter but built on Go.  
+Sourdough hugo base setting to generate my simple portfolio with photography projects, CV and publications.
 
 ## Built With 
 [![Hugo](https://img.shields.io/badge/Hugo-%5E0.80.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
