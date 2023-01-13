@@ -1,5 +1,5 @@
 :root { 
-    --primary-color: rgba(250, 250, 250, 0.98); 
+    --primary-color: rgba(35, 119, 165, 0.98); 
     --secondary-color: rgba(167, 112, 11); 
     --link-color: rgb(55, 47, 47); 
 } 
@@ -32,7 +32,7 @@
 .blueish {
     background: var(--primary-color) !important;
     font-size: 14px;
-    color: white;
+    color: rgb(55, 116, 200);
     padding-top: 3%;
     padding-bottom: 10%;
 }
