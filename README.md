@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio website
 
 Sourdough hugo base setting to generate my simple portfolio with photography projects, CV and publications.
 
