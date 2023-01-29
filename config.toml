@@ -1,5 +1,5 @@
-# baseURL = "https://egazzarr.github.io/portfolio/"
-baseURL = "http://example.org/"
+baseURL = "https://egazzarr.github.io/portfolio/"
+# baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Elena Gazzarrini"
 # theme = "sourgough-starter"
