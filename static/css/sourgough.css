@@ -1,5 +1,5 @@
 :root { 
-    --primary-color: rgba(35, 119, 165, 0.98); 
+    --primary-color: rgba(230, 150, 0, 0.98); 
     --secondary-color: rgba(167, 112, 11); 
     --link-color: rgb(55, 47, 47); 
 } 
@@ -10,6 +10,7 @@
 
 .footer {
     position: fixed;
+    color: var(--primary-color);
     top: 140px;
     right: var(--footerOffset);
     transform: rotate(-90deg);
@@ -53,10 +54,24 @@
 #about i {
     font-size: 25px !important;
     color: var(--secondary-color);
+    margin: 3 auto;
+}
+
+#about img {
+    width: 60%;
+}
+
+#about {
+    width: 50%;
+}
+
+#mindmap i {
+    font-size: 25px !important;
+    color: var(--secondary-color);
 }
 
 #projects img {
-    width: 80%;
+    width: 100%;
 }
 
 #publications hr {

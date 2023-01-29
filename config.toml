@@ -1,4 +1,5 @@
-baseURL = "https://egazzarr.github.io/portfolio/"
+# baseURL = "https://egazzarr.github.io/portfolio/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Elena Gazzarrini"
 # theme = "sourgough-starter"
@@ -13,7 +14,7 @@ relativeURLs = true
     scopusLink = false
     dimensionsLink = false
     dimensionCitations = false
-    backgroundPath = "images/lulluari.JPG"
+    backgroundPath = "images/bw/li.JPG"
     googleScholar = 'XXXX' # These are needed only if set to true above
     scopusID = 'XXXX'
     dimensionsID = 'XXXX'
@@ -24,23 +25,54 @@ relativeURLs = true
 
 [menu]
 #----- Navbar links ------
+
+ # [[menu.main]]
+  #  identifier = "publications"
+   # name = "Publications"
+   # url = "/publications/"
+
   [[menu.main]]
-    identifier = "about"
-    name = "About"
+    identifier = "estate"
+    name = "estate"
+    url = "/estate/"
+
+  [[menu.main]]
+    identifier = "color"
+    name = "color"
+    url = "/color/"
+
+  [[menu.main]]
+    identifier = "naturewill"
+    name = "nature's"
+    url = "/nature/"
+
+  [[menu.main]]
+    identifier = "bw"
+    name = "b+w"
+    url = "/bw/"
+
+  [[menu.main]]
+    identifier = "p5"
+    name = "p5"
+    url = "/p5/"
+
+    [[menu.main]]
+    identifier = "dual"
+    name = "dual"
+    url = "/dual/"
+
+    [[menu.main]]
+    identifier = "ceramica"
+    name = "ceramica"
+    url = "/ceramica/"
+
+  [[menu.main]]
+    identifier = "manifesto"
+    name = "manifesto"
     url = "/about/"
 
-  [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publications/"
-
-  [[menu.main]]
-    identifier = "photography"
-    name = "Photography"
-    url = "/projects/"
-
 #----- NavBottom Links ------
-  [[menu.bot]]
+ [[menu.bot]]
     identifier = "github"
     name = "Github"
     url = "https://github.com/egazzarr/"
@@ -52,7 +84,7 @@ relativeURLs = true
    # url = "https://gitlab.com/jack-alope/"
     # pre = "fab fa-gitlab"
 
-  [[menu.bot]]
+ [[menu.bot]]
     identifier = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/egazzarrini/"
@@ -86,13 +118,31 @@ relativeURLs = true
 #----------- Text Links -------
   [[menu.link]]
     identifier = "email"
-    name = "gazzarrini.elena@gmail.com"
+    name = "e-mail"
     url = "mailto:gazzarrini.elena@gmail.com"
 
- # [[menu.link]]
-  #  identifier = "resume"
- #   name = "resume"
- #   url = ""
+ [[menu.link]]
+    identifier = "resume"
+    name = "CV"
+    url = "/cv/"
+
+[[menu.link]]
+    identifier = "MindMap"
+    name = "MindMap"
+    url = "/mindmap/"
 
 [taxonomies]
   authors = "authors"
+
+  #[[menu.link]]
+   # identifier = "github"
+   # name = "git"
+   # url = "https://github.com/egazzarr/"
+   # pre = "fab fa-github"
+   
+
+  #[[menu.link]]
+   # identifier = "linkedin"
+   # name = "LinkedIn"
+   # url = "https://www.linkedin.com/in/egazzarrini/"
+  

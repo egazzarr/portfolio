@@ -1,25 +1,25 @@
 {{ define "main" }}
-
 <section class="white">
 {{ range .Pages.ByDate.Reverse }}
 
     <div class="container" id="about">
-        
-
-        <center><img src="../../images/illustra.jpg"; width="70%"></center>
-        <div class="row justify-content-center align-items-center">
-            {{ if eq .Title "About"}}
+         
+        <center><img src="../../images/sketch1.jpg"; width="70%"></center>
+        <!-- <div class="row justify-content-center align-items-center"> -->
+            <!-- {{ if eq .Title "About"}}
                 <div class="col-lg-3" style="padding-bottom: 20px;">
                     <img src="{{ .Params.headshot }}" alt=""
                     width="100%" style="border-radius: 10px;">
                 </div>
+               
+
                 <div class="col">
                     <h1>{{ .Title | markdownify }}</h1>
                     
                     {{.Content}}
                 </div>
-            {{ end }}
-            {{ if eq .Title "Education"}}
+            {{ end }} -->
+            <!-- {{ if eq .Title "Education"}}
                 <div class="col">
                     <h1>{{ .Title | markdownify }}</h1>
                     {{ range $university, $degrees := .Params.degrees}} 
@@ -67,19 +67,19 @@
                         </a>
                     </div>
                 </div>
-            {{ end }}
-        </div>
+            {{ end }} -->
+        <!-- </div> -->
         <div class="row justify-content-center align-items-center">
-            {{ if ne .Title "Education"}}
-                {{ if ne .Title "About"}}
+            <!-- {{ if ne .Title "Education"}}
+                {{ if ne .Title "About"}} -->
                     <div class="col">
                         <h1>{{ .Title | markdownify }}</h1>
                         {{.Content}}
                     </div>
-                {{ end }}
+                <!-- {{ end }}
             {{ end }}
-        </div>
-        <hr/>
+        </div> -->
+    
     </div>
     
 {{ end }}
@@ -102,11 +102,11 @@
 </div> -->
 </section>
 
-<style>
+<!-- <style>
     .footer {
         color: white;
     }
-</style>
+</style> -->
 
 {{ end }}
 

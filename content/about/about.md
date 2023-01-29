@@ -1,20 +1,4 @@
-## Me, myself and I
-Always ager to explore the world until its furthest grain, into its deeper detail. Open to collaborate on projects connecting science, visual arts and cinema. 
+*"Ascolta, ho un'anima prolissa e uso poche parole. Sono irritabile e ferisco facilmente. Sono anche molto calmo e perdono subito. Non dimentico mai. Ma ci sono poche cose di cui mi ricordo. Sono paziente ma profondamente collerico, (...). Le persone non riescono mai nenache ad irritarmi, certamente perche' le perdono in anticipo. Mi piace molto la gente, per egoismo: in fondo, la gente mi assomoglia. Non dimentico mai un'offesa, questo e' vero, ma come puo' essere vero se le offese mi escono dalla testa come se non ci fossero mai entrate?"*
 
-## Education
-<ul>
-<li>
-King’s College London London, UK
+While reading Ulisse's words in a Clarice Lispector book at the time of creation of this page, I found some truth in it.
 
-*Msci in Physics 09/2016 – 07/2020*
-
-<li>Berkeley University of California Berkeley, US
-
-*Third Year Abroad, Physics Bachelor 09/2018 – 05/2019*
-
-
-<li>Liceo Classico V. Gioberti Turin, Italy
-
-*Studi Classici Superiori 09/2011 - 07/2016*
-
-</ul>
