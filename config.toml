@@ -1,4 +1,4 @@
-baseURL = "https://egazzarr.github.io/portfolio"
+baseURL = "https://egazzarr.github.io/"
 # baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Elena Gazzarrini"
@@ -44,7 +44,7 @@ publishDir = "docs"
 
   [[menu.main]]
     identifier = "naturewill"
-    name = "nature's"
+    name = "slab_city"
     url = "/nature/"
 
   [[menu.main]]
@@ -67,10 +67,10 @@ publishDir = "docs"
     name = "ceramica"
     url = "/ceramica/"
 
-  [[menu.main]]
-    identifier = "manifesto"
-    name = "manifesto"
-    url = "/about/"
+ # [[menu.main]]
+ #   identifier = "manifesto"
+ #   name = "manifesto"
+ #   url = "/about/"
 
 #----- NavBottom Links ------
  [[menu.bot]]
