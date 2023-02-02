@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Elena Gazzarrini"
 # theme = "sourgough-starter"
 relativeURLs = true
-publishDir = "docs"
+# publishDir = "docs"
 
 [markup.goldmark.renderer]
     unsafe= true
