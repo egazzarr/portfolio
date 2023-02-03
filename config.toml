@@ -43,9 +43,9 @@ relativeURLs = true
     url = "/color/"
 
   [[menu.main]]
-    identifier = "naturewill"
+    identifier = "slab_city"
     name = "slab_city"
-    url = "/nature/"
+    url = "/slab_city/"
 
   [[menu.main]]
     identifier = "bw"

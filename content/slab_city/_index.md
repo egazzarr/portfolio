@@ -1,5 +1,5 @@
 ---
-title: "Nature's Will"
+title: "Slab City"
 # date: year-month-day
 type: 
 doi: 
