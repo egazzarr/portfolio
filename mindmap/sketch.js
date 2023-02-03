@@ -5,9 +5,9 @@ function setup() {
 
 function draw() {
   if (mouseIsPressed) {
-    fill(0);
+    fill();
   } else {
-    fill(255, 165, 0);
+    fill(255, 165, 0, 50);
   }
   ellipse(mouseX, mouseY, 30, 30);
 }
