@@ -4,6 +4,8 @@ languageCode = "en-us"
 title = "Elena Gazzarrini"
 # theme = "sourgough-starter"
 relativeURLs = true
+uglyURLs = true
+
 # publishDir = "docs"
 
 [markup.goldmark.renderer]
@@ -15,7 +17,7 @@ relativeURLs = true
     scopusLink = false
     dimensionsLink = false
     dimensionCitations = false
-    backgroundPath = "images/bw/li.JPG"
+    backgroundPath = "images/estate/montagna.JPG"
     googleScholar = 'XXXX' # These are needed only if set to true above
     scopusID = 'XXXX'
     dimensionsID = 'XXXX'
