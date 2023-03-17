@@ -17,7 +17,7 @@ uglyURLs = true
     scopusLink = false
     dimensionsLink = false
     dimensionCitations = false
-    backgroundPath = "images/estate/montagna.JPG"
+    backgroundPath = "images/estate/mountain.JPG"
     googleScholar = 'XXXX' # These are needed only if set to true above
     scopusID = 'XXXX'
     dimensionsID = 'XXXX'
@@ -37,42 +37,42 @@ uglyURLs = true
   [[menu.main]]
     identifier = "estate"
     name = "estate"
-    url = "/estate/"
+    url = "https://egazzarr.github.io/portfolio/estate/"
 
   [[menu.main]]
     identifier = "color"
     name = "color"
-    url = "/color/"
+    url = "https://egazzarr.github.io/portfolio/color/"
 
   [[menu.main]]
     identifier = "slab_city"
     name = "slab_city"
-    url = "/slab_city/"
+    url = "https://egazzarr.github.io/portfolio/slab_city/"
 
   [[menu.main]]
     identifier = "bw"
     name = "b+w"
-    url = "/bw/"
+    url = "https://egazzarr.github.io/portfolio/bw/"
 
   [[menu.main]]
     identifier = "p5"
     name = "p5"
-    url = "/p5/"
+    url = "https://egazzarr.github.io/portfolio/p5/"
 
     [[menu.main]]
     identifier = "dual"
     name = "dual"
-    url = "/dual/"
+    url = "https://egazzarr.github.io/portfolio/dual/"
 
     [[menu.main]]
     identifier = "ceramica"
     name = "ceramica"
-    url = "/ceramica/"
+    url = "https://egazzarr.github.io/portfolio/ceramica/"
 
  # [[menu.main]]
  #   identifier = "manifesto"
  #   name = "manifesto"
- #   url = "/about/"
+ #   url = "https://egazzarr.github.io/portfolio/about/"
 
 #----- NavBottom Links ------
  [[menu.bot]]
@@ -127,12 +127,12 @@ uglyURLs = true
  [[menu.link]]
     identifier = "resume"
     name = "CV"
-    url = "/cv/"
+    url = "https://egazzarr.github.io/portfolio/cv/"
 
-[[menu.link]]
-    identifier = "MindMap"
-    name = "MindMap"
-    url = "/mindmap/"
+#[[menu.link]]
+ #   identifier = "MindMap"
+  #  name = "MindMap"
+   # url = "https://egazzarr.github.io/portfolio/mindmap/"
 
 [taxonomies]
   authors = "authors"
