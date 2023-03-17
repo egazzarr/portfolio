@@ -7,7 +7,7 @@ title = "Elena Gazzarrini"
 #relativeURLs = true
 #uglyURLs = true
 
-# publishDir = "docs"
+publishDir = "public"
 
 [markup.goldmark.renderer]
     unsafe= true
@@ -130,10 +130,10 @@ title = "Elena Gazzarrini"
     name = "CV"
     url = "/cv/"
 
-#[[menu.link]]
- #   identifier = "MindMap"
-  #  name = "MindMap"
-   # url = "/mindmap/"
+[[menu.link]]
+    identifier = "MindMap"
+    name = "MindMap"
+    url = "/mindmap/"
 
 [taxonomies]
   authors = "authors"
