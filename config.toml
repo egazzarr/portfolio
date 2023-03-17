@@ -1,10 +1,11 @@
 baseURL = "https://egazzarr.github.io/"
-# baseURL = "http://example.org/"
+#baseURL = "https://example.org/"
+#baseURL = "https://localhost:42105/"
 languageCode = "en-us"
 title = "Elena Gazzarrini"
 # theme = "sourgough-starter"
-relativeURLs = true
-uglyURLs = true
+#relativeURLs = true
+#uglyURLs = true
 
 # publishDir = "docs"
 
@@ -37,42 +38,42 @@ uglyURLs = true
   [[menu.main]]
     identifier = "estate"
     name = "estate"
-    url = "https://egazzarr.github.io/portfolio/estate/"
+    url = "/estate/"
 
   [[menu.main]]
     identifier = "color"
     name = "color"
-    url = "https://egazzarr.github.io/portfolio/color/"
+    url = "/color/"
 
   [[menu.main]]
     identifier = "slab_city"
     name = "slab_city"
-    url = "https://egazzarr.github.io/portfolio/slab_city/"
+    url = "/slab_city/"
 
   [[menu.main]]
     identifier = "bw"
     name = "b+w"
-    url = "https://egazzarr.github.io/portfolio/bw/"
+    url = "/bw/"
 
   [[menu.main]]
     identifier = "p5"
     name = "p5"
-    url = "https://egazzarr.github.io/portfolio/p5/"
+    url = "/p5/"
 
     [[menu.main]]
     identifier = "dual"
     name = "dual"
-    url = "https://egazzarr.github.io/portfolio/dual/"
+    url = "/dual/"
 
     [[menu.main]]
     identifier = "ceramica"
     name = "ceramica"
-    url = "https://egazzarr.github.io/portfolio/ceramica/"
+    url = "/ceramica/"
 
  # [[menu.main]]
  #   identifier = "manifesto"
  #   name = "manifesto"
- #   url = "https://egazzarr.github.io/portfolio/about/"
+ #   url = "/about/"
 
 #----- NavBottom Links ------
  [[menu.bot]]
@@ -127,12 +128,12 @@ uglyURLs = true
  [[menu.link]]
     identifier = "resume"
     name = "CV"
-    url = "https://egazzarr.github.io/portfolio/cv/"
+    url = "/cv/"
 
 #[[menu.link]]
  #   identifier = "MindMap"
   #  name = "MindMap"
-   # url = "https://egazzarr.github.io/portfolio/mindmap/"
+   # url = "/mindmap/"
 
 [taxonomies]
   authors = "authors"

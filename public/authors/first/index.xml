@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on Elena Gazzarrini</title>
+    <link>https://egazzarr.github.io/authors/first.html</link>
+    <description>Recent content in First on Elena Gazzarrini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://egazzarr.github.io/authors/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>b&#43;w</title>
+      <link>https://egazzarr.github.io/bw.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/bw.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ceramica</title>
+      <link>https://egazzarr.github.io/ceramica.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/ceramica.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color</title>
+      <link>https://egazzarr.github.io/color.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/color.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual</title>
+      <link>https://egazzarr.github.io/dual.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/dual.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estate</title>
+      <link>https://egazzarr.github.io/estate.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/estate.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>p5</title>
+      <link>https://egazzarr.github.io/p5.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/p5.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab City</title>
+      <link>https://egazzarr.github.io/slab_city.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/slab_city.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
