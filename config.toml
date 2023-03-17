@@ -2,7 +2,7 @@ baseURL = "https://egazzarr.github.io/"
 # baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Elena Gazzarrini"
-theme = "sourgough-starter"
+# theme = "sourgough-starter"
 relativeURLs = true
 uglyURLs = true
 
