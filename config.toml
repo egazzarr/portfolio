@@ -7,7 +7,7 @@ title = "Elena Gazzarrini"
 #relativeURLs = true
 #uglyURLs = true
 
-# publishDir = "docs"
+publishDir = "docs"
 
 [markup.goldmark.renderer]
     unsafe= true
