@@ -16,6 +16,27 @@ King’s College London London, UK
 
 </ul>
 
+#### Publications
+
+<!-- </br>
+<img src="../images/bionano.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; width:20%" /> -->
+
+*[P. Smith, R. Ziolek, E. Gazzarrini, D. Owen, C. Lorenz, On the
+interaction of hyaluronic acid with synovial fluid lipid membranes, Phys. Chem. Chem. Phys., 2019,21, 9845-9857.](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp01532a#!divAbstract)*
+
+<!-- </br>
+</br>
+</br>
+</br>
+<img src="../images/nanocatalysis.png"
+     alt="Markdown Monster icon"
+     style="float: right; margin-right: 10px; width:40%" /> -->
+*[E. Gazzarrini, K. Rossi, F. Baletto, Born to be different: the formation
+            process of Cu-nanoparticles tunes the size-trend of the activity for
+            CO2 to CH4 conversion, Nanoscale, 2021,13, 5857-586.](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d0nr07889a#!divAbstract)*
+
 #### Work Experience
 
 <ul>
@@ -54,17 +75,44 @@ Lorentz Lab, King’s College London London, UK
 
 *Volunteer 07/2017 – 08/2017*
 
+#### IT skills 
 
-#### Publications
+<li>Python - advanced
 
+<li>DevOps (K8s, Docker, Terraform, Flux, Helm) - advanced
 
-[P. Smith, R. Ziolek, E. Gazzarrini, D. Owen, C. Lorenz, On the
-interaction of hyaluronic acid with synovial fluid lipid membranes, Phys. Chem. Chem. Phys., 2019,21, 9845-9857.](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp01532a#!divAbstract)
+<li>Fortran, UNIX, MATLAB - advanced
 
+<li>HTML, CSS, JavaScript - intermediate
 
+<li>SQL & AWS services - intermediate
 
+<li>MS-Office - advanced
 
-[E. Gazzarrini, K. Rossi, F. Baletto, Born to be different: the formation
-            process of Cu-nanoparticles tunes the size-trend of the activity for
-            CO2 to CH4 conversion, Nanoscale, 2021,13, 5857-586.](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d0nr07889a#!divAbstract)
+<li>Adobe applications - intermediate
+
+</br>
+</br>
+
+#### Languages
+
+<li>Italian - native
+
+<li>English - C2
+
+<li>French - B2
+
+<li> German - A2
+
+</br>
+</br>
+
+#### Featured 
+
+*[SUBTIL/SKURRIL – Raum für Kunst und Literatur](https://subtilskurril.com/1481/gastbeitrage/natures-will/)*
+
+*[NCCR MAREL Interview](https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/Elena-Gazzarrini)*
+
+*[CERN Computing Blog](https://computing-blog.web.cern.ch/2023/01/an-overview-of-the-escape-data-challenge/)*
+
 

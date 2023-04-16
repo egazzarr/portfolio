@@ -1,5 +1,5 @@
 baseURL = "https://egazzarr.github.io/portfolio"
-#baseURL = "https://example.org/"
+# baseURL = "https://example.org/"
 #baseURL = "https://localhost:42105/"
 languageCode = "en-us"
 title = "Elena Gazzarrini"
@@ -130,10 +130,15 @@ publishDir = "docs"
     name = "CV"
     url = "/cv/"
 
-[[menu.link]]
-    identifier = "MindMap"
-    name = "MindMap"
-    url = "/mindmap/"
+ [[menu.link]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+
+#[[menu.link]]
+ #   identifier = "MindMap"
+  #  name = "MindMap"
+   # url = "/mindmap/"
 
 [taxonomies]
   authors = "authors"
