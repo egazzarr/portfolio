@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slab City on Elena Gazzarrini</title>
-    <link>https://egazzarr.github.io/portfolio/slab_city/</link>
+    <link>https://egazzarr.github.io/slab_city/</link>
     <description>Recent content in Slab City on Elena Gazzarrini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://egazzarr.github.io/portfolio/slab_city/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://egazzarr.github.io/slab_city/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

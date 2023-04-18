@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elena Gazzarrini</title>
-    <link>https://egazzarr.github.io/portfolio/</link>
+    <link>https://egazzarr.github.io/</link>
     <description>Recent content on Elena Gazzarrini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://egazzarr.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://egazzarr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://egazzarr.github.io/portfolio/about/about/</link>
+      <link>https://egazzarr.github.io/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egazzarr.github.io/portfolio/about/about/</guid>
+      <guid>https://egazzarr.github.io/about/about/</guid>
       <description>I am a physicist and a scientist by training, having worked in projects spanning from materials design to supporting astrophysics and particle physics research. I am curious to understand why natural processes happen in certain ways, but also to explore the infinite universe of the mind and its creative outcomes. I usually try to convey the interpretation of my surroundings and my ideas through photographic and video practices.
 Extremely passionate about cinema and documentaries, I am looking to get involved in projects of this sort.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://egazzarr.github.io/portfolio/cv/cv/</link>
+      <link>https://egazzarr.github.io/cv/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egazzarr.github.io/portfolio/cv/cv/</guid>
+      <guid>https://egazzarr.github.io/cv/cv/</guid>
       <description>Education   King’s College London London, UK Msci in Physics 09/2016 – 07/2020
 Berkeley University of California Berkeley, US Third Year Abroad, Physics Bachelor 09/2018 – 05/2019
 Liceo Classico V. Gioberti Turin, Italy Studi Classici Superiori 09/2011 - 07/2016
@@ -34,19 +34,19 @@ Liceo Classico V. Gioberti Turin, Italy Studi Classici Superiori 09/2011 - 07/20
     
     <item>
       <title></title>
-      <link>https://egazzarr.github.io/portfolio/mindmap/mindmap/</link>
+      <link>https://egazzarr.github.io/mindmap/mindmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egazzarr.github.io/portfolio/mindmap/mindmap/</guid>
+      <guid>https://egazzarr.github.io/mindmap/mindmap/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://egazzarr.github.io/portfolio/publications/publications/</link>
+      <link>https://egazzarr.github.io/publications/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://egazzarr.github.io/portfolio/publications/publications/</guid>
+      <guid>https://egazzarr.github.io/publications/publications/</guid>
       <description></description>
     </item>
     
