@@ -18,13 +18,19 @@ King’s College London London, UK
 
 #### Publications
 
+*[E. Gazzarrini,  E. Garcia, D. Gosein, A. V. Moya, A. Kounelis, X. Espinal. The Virtual Research Environment: towards a comprehensive analysis platform. 2023. arXiv: 2305.10166](https://arxiv.org/abs/2305.10166)*
+
+
+*[E. Gazzarrini,  R. K. Cersonsky, M. Bercx, C. S. Adorf, N. Marzari. The rule of four: anomalous stoichiometries of inorganic compounds.  2023. arXiv:2307.14742](https://arxiv.org/abs/2307.14742)*
+
+
 <!-- </br>
 <img src="../images/bionano.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px; width:20%" /> -->
+*[E. Gazzarrini, K. Rossi, F. Baletto, Born to be different: the formation process of Cu-nanoparticles tunes the size-trend of the activity for CO2 to CH4 conversion,Nanoscale, 2021,13, 5857-586.](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d0nr07889a#!divAbstract)*
 
-*[P. Smith, R. Ziolek, E. Gazzarrini, D. Owen, C. Lorenz, On the
-interaction of hyaluronic acid with synovial fluid lipid membranes, Phys. Chem. Chem. Phys., 2019,21, 9845-9857.](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp01532a#!divAbstract)*
+*[P. Smith, R. Ziolek, E. Gazzarrini, D. Owen, C. Lorenz. On the interaction of hyaluronic acid with synovial fluid lipid membranes, Phys. Chem. Chem. Phys., 2019,21, 9845-9857.](https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp01532a#!divAbstract)*
 
 <!-- </br>
 </br>
@@ -33,9 +39,6 @@ interaction of hyaluronic acid with synovial fluid lipid membranes, Phys. Chem. 
 <img src="../images/nanocatalysis.png"
      alt="Markdown Monster icon"
      style="float: right; margin-right: 10px; width:40%" /> -->
-*[E. Gazzarrini, K. Rossi, F. Baletto, Born to be different: the formation
-            process of Cu-nanoparticles tunes the size-trend of the activity for
-            CO2 to CH4 conversion, Nanoscale, 2021,13, 5857-586.](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d0nr07889a#!divAbstract)*
 
 #### Work Experience
 
