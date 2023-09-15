@@ -75,10 +75,10 @@ publishDir = "docs"
   name = "blues"
   url = "/blues/"
 
-  [[menu.main]]
-  identifier = "portrait"
-  name = "portrait"
-  url = "/portrait/"
+#  [[menu.main]]
+ # identifier = "portrait"
+  #name = "portrait"
+  #url = "/portrait/"
 
 #----- NavBottom Links ------
  [[menu.bot]]
