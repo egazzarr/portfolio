@@ -19,7 +19,7 @@ publishDir = "docs"
     scopusLink = false
     dimensionsLink = false
     dimensionCitations = false
-    backgroundPath = "images/estate/mountain.JPG"
+    backgroundPath = "images/estate/mountain.jpg"
     googleScholar = 'XXXX' # These are needed only if set to true above
     scopusID = 'XXXX'
     dimensionsID = 'XXXX'
@@ -55,15 +55,30 @@ publishDir = "docs"
     name = "p5"
     url = "/p5/"
 
-    [[menu.main]]
-    identifier = "dual"
-    name = "dual"
-    url = "/dual/"
+  [[menu.main]]
+  identifier = "dual"
+  name = "dual"
+  url = "/dual/"
 
-    [[menu.main]]
-    identifier = "ceramica"
-    name = "ceramica"
-    url = "/ceramica/"
+  [[menu.main]]
+  identifier = "ceramica"
+  name = "ceramica"
+  url = "/ceramica/"
+
+  [[menu.main]]
+  identifier = "triad"
+  name = "triad"
+  url = "/triad/"
+
+  [[menu.main]]
+  identifier = "blues"
+  name = "blues"
+  url = "/blues/"
+
+  [[menu.main]]
+  identifier = "portrait"
+  name = "portrait"
+  url = "/portrait/"
 
 #----- NavBottom Links ------
  [[menu.bot]]
