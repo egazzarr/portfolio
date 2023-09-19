@@ -87,17 +87,17 @@ publishDir = "docs"
     url = "https://github.com/egazzarr/"
     pre = "fab fa-github"
 
-  [[menu.bot]]
-    identifier = "gitlab"
-    name = "Gitlab"
-    url = "https://gitlab.cern.ch/egazzarr"
-    pre = "fab fa-gitlab"
-
  [[menu.bot]]
     identifier = "linkedin"
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/egazzarrini/"
     pre = "fab fa-linkedin-in"
+
+ [[menu.bot]]
+    identifier = "yt"
+    name = "YouTube"
+    url = "https://www.youtube.com/@elenagazzarrini7572/videos"
+    pre = "fab fa-youtube"
 
 #-------- About section links ----- 
 #  [[menu.about]]
