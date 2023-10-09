@@ -71,6 +71,11 @@ publishDir = "docs"
   url = "/triad/"
 
   [[menu.main]]
+  identifier = "kids"
+  name = "kids"
+  url = "/kids/"
+
+  [[menu.main]]
   identifier = "blues"
   name = "blues"
   url = "/blues/"
