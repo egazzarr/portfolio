@@ -1,7 +1,5 @@
-baseURL = "https://egazzarr.github.io/portfolio/portfolio/"
-#baseURL = "https://egazzarr.github.io"
-#baseURL = "https://example.org/"
-#baseURL = "https://localhost:42105/"
+baseURL = "https://egazzarr.github.io/portfolio/"
+
 languageCode = "en-us"
 title = "Elena Gazzarrini"
 # theme = "sourgough-starter"
@@ -127,7 +125,7 @@ publishDir = "docs"
     name = "about"
     url = "/about/"
 
- #[[menu.link]]
+# [[menu.link]]
  #  identifier = "MindMap"
  #  name = "MindMap"
  #  url = "/mindmap/"

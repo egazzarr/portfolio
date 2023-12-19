@@ -6,9 +6,19 @@
     <description>Recent content on Elena Gazzarrini</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://egazzarr.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>JavaScript Example</title>
+      <link>https://egazzarr.github.io/portfolio/mindmap/mindmap/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://egazzarr.github.io/portfolio/mindmap/mindmap/</guid>
+      <description>JavaScript Example This is a sample page with embedded JavaScript.</description>
+    </item>
     
     <item>
       <title></title>
@@ -16,8 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://egazzarr.github.io/portfolio/about/about/</guid>
-      <description>I am a physicist and a scientist by training, having worked in projects spanning from materials design to supporting astrophysics and particle physics research. I am curious to understand why natural processes happen in certain ways, but also to explore the infinite universe of the mind and its creative outcomes. I usually try to convey the interpretation of my surroundings and my ideas through photographic and video practices.
-Extremely passionate about cinema and documentaries, I am looking to get involved in projects of this sort.</description>
+      <description>A physicist and a scientist by training, Elena has worked on projects spanning from materials design to supporting astrophysics and particle physics research. Curious to understand how natural processes happen in certain ways, but also to explore the infinite universe of the mind and its creative outcomes, she tries to convey the interpretation of her surroundings in a visual way through photos and videos.
+She transitioned from academic solid state physics research to managing infrastructures for Open Science and Open Data in the IT department at CERN, with the objective of making Dark Matter searches more collaborative and sustainable.</description>
     </item>
     
     <item>
@@ -31,15 +41,6 @@ Berkeley University of California Berkeley, US Third Year Abroad, Physics Bachel
 Liceo Classico V. Gioberti Turin, Italy Studi Classici Superiori 09/2011 - 07/2016
  Publications E. Gazzarrini, E. Garcia, D. Gosein, A. V. Moya, A. Kounelis, X. Espinal, The Virtual Research Environment: towards a comprehensive analysis platform, 2023. arXiv: 2305.10166.
 E. Gazzarrini, R. K.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://egazzarr.github.io/portfolio/mindmap/mindmap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://egazzarr.github.io/portfolio/mindmap/mindmap/</guid>
-      <description></description>
     </item>
     
     <item>

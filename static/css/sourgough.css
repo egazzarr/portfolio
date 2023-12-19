@@ -38,7 +38,7 @@
     padding-top: 3%;
     padding-bottom: 10%;
 }
-
+  
 #navBot a:hover, #navTop a:hover {
     color: var(--primary-color);
 }
