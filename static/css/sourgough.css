@@ -4,6 +4,7 @@
     --link-color: rgb(55, 47, 47); 
 } 
 
+
 .navbar {
     background: white;
 }
@@ -71,6 +72,7 @@
 #mindmap i {
     font-size: 25px !important;
     color: var(--secondary-color);
+    margin: 3 auto;
 }
 
 #projects img {
@@ -88,3 +90,12 @@
 #research img {
     width: 50%;
 }
+
+div1{
+    position:absolute;
+    transform:translate(-50%,-50%);
+    height:35px;
+    width:35px;
+    border-radius:50%;
+    border:2px solid black;
+    }

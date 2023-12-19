@@ -1,11 +1,1 @@
----
-title: "JavaScript Example"
-date: 2023-12-19
-draft: false
----
-
-# JavaScript Example
-
-This is a sample page with embedded JavaScript.
-
-<script src="/js/date.js"></script>
+A physicist and a scientist by training, Elena has worked on projects spanning from materials design to supporting astrophysics and particle physics research. Curious to understand how natural processes happen in certain ways, but also to explore the infinite universe of the mind and its creative outcomes, she tries to convey the interpretation of her surroundings in a visual way through photos and videos. 

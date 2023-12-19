@@ -125,10 +125,10 @@ publishDir = "docs"
     name = "about"
     url = "/about/"
 
-# [[menu.link]]
- #  identifier = "MindMap"
- #  name = "MindMap"
- #  url = "/mindmap/"
+ [[menu.link]]
+   identifier = "MindMap"
+   name = "MindMap"
+   url = "/mindmap/"
 
 [taxonomies]
   authors = "authors"
