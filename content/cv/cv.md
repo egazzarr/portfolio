@@ -109,6 +109,7 @@ Lorentz Lab, King’s College London London, UK
 
 #### Featured works - photography, scientific articles, videos
 
+
 *[SUBTIL/SKURRIL – Raum für Kunst und Literatur](https://subtilskurril.com/1481/gastbeitrage/natures-will/)*
 
 *[NCCR MARVEL Interview](https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/Elena-Gazzarrini) - [NCCR MARVEL Highlights](https://nccr-marvel.ch/highlights/rule-of-four) - [Newsweek's Science](https://www.newsweek.com/chemistry-crystals-materials-structure-mystery-1892321)*
@@ -117,4 +118,4 @@ Lorentz Lab, King’s College London London, UK
 
 *[CDS videos: OQI operational launch event](https://videos.cern.ch/record/2299773)*
 
-*[vimeo](https://vimeo.com/723673840?share=copy)
+*[vimeo](https://vimeo.com/723673840?share=copy)*
