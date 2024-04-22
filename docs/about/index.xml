@@ -4,21 +4,15 @@
     <title>Abouts on Elena Gazzarrini</title>
     <link>https://egazzarr.github.io/portfolio/about/</link>
     <description>Recent content in Abouts on Elena Gazzarrini</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://egazzarr.github.io/portfolio/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://egazzarr.github.io/portfolio/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://egazzarr.github.io/portfolio/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://egazzarr.github.io/portfolio/about/about/</guid>
-      <description>A physicist and a scientist by training, Elena has worked on projects spanning from materials design to supporting astrophysics and particle physics research. Curious to understand how natural processes happen in certain ways, but also to explore the infinite universe of the mind and its creative outcomes, she tries to convey the interpretation of her surroundings in a visual way through photos and videos.
-She transitioned from academic solid state physics research to managing infrastructures for Open Science and Open Data in the IT department at CERN, with the objective of making Dark Matter searches more collaborative and sustainable.</description>
+      <description>A physicist and a scientist by training, Elena has worked on projects spanning from materials design to supporting astrophysics and particle physics research. Curious to understand how natural processes happen in certain ways, but also to explore the infinite universe of the mind and its creative outcomes, she tries to convey the interpretation of her surroundings in a visual way through photos and videos.&#xA;She transitioned from academic solid state physics research to managing infrastructures for Open Science and Open Data in the IT department at CERN, with the objective of making Dark Matter searches more collaborative and sustainable.</description>
     </item>
-    
   </channel>
 </rss>

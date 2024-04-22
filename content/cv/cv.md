@@ -18,18 +18,11 @@ King’s College London London, UK
 
 #### Publications
 
+[Gazzarrini, E., Cersonsky, R.K., Bercx, M. *et al.* The rule of four: anomalous distributions in the stoichiometries of inorganic compounds. *npj Comput. Mater.* **10**, 73 (2024).](https://doi.org/10.1038/s41524-024-01248-z)
+
 [E. Gazzarrini,  E. Garcia, D. Gosein, A. V. Moya, A. Kounelis, X. Espinal, 
 *The Virtual Research Environment: towards a comprehensive analysis platform*, 2023. arXiv: 2305.10166.](https://arxiv.org/abs/2305.10166)
 
-
-[E. Gazzarrini,  R. K. Cersonsky, M. Bercx, C. S. Adorf, N. Marzari,
-*The rule of four: anomalous stoichiometries of inorganic compounds*, 2023. arXiv:2307.14742.](https://arxiv.org/abs/2307.14742)
-
-
-<!-- </br>
-<img src="../images/bionano.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width:20%" /> -->
 [E. Gazzarrini, K. Rossi, F. Baletto, 
 *Born to be different: the formation process of Cu-nanoparticles tunes the size-trend of the activity for CO2 to CH4 conversion*, Nanoscale, 2021,13, 5857-586.](https://pubs.rsc.org/en/content/articlelanding/2021/nr/d0nr07889a#!divAbstract)
 
