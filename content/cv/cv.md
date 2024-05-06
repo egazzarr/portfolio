@@ -38,7 +38,7 @@ King’s College London London, UK
 
 <li>CERN, Geneve, CH
 
-*Scientific Animations, Content Ceator for interactive exhibitions 01/2024 - present*
+*2D/3D Scientific Animations, Content Ceator for interactive exhibitions 01/2024 - present*
 
 <li>CERN, Geneve, CH
 
