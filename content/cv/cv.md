@@ -38,7 +38,7 @@ King’s College London London, UK
 
 <li>CERN, Geneve, CH
 
-*2D/3D Scientific Animations, Content Ceator for interactive exhibitions 01/2024 - present*
+*2D/3D Scientific Animations, Content Creator for interactive exhibitions 01/2024 - present*
 
 <li>CERN, Geneve, CH
 
@@ -112,7 +112,7 @@ Lorentz Lab, King’s College London London, UK
 
 *[SUBTIL/SKURRIL – Raum für Kunst und Literatur](https://subtilskurril.com/1481/gastbeitrage/natures-will/)*
 
-*[NCCR MARVEL Interview](https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/Elena-Gazzarrini) - [NCCR MARVEL Highlights](https://nccr-marvel.ch/highlights/rule-of-four) - [Newsweek's Science](https://www.newsweek.com/chemistry-crystals-materials-structure-mystery-1892321)*
+*[NCCR MARVEL Interview](https://nccr-marvel.ch/outreach/equal-opportunities/inspire-potentials-fellows/Elena-Gazzarrini) - [NCCR MARVEL Highlights](https://nccr-marvel.ch/highlights/rule-of-four)*
 
 *[CERN IT ReadME: ESCAPE Data Challenge](https://computing-blog.web.cern.ch/2023/01/an-overview-of-the-escape-data-challenge/) - [CERN IT ReadME: Early Universe Symphony](https://computing-blog.web.cern.ch/2024/02/early-universe-symphony/) - [CERN IT ReadME: Einstein Telescope Data Challenge](https://computing-blog.web.cern.ch/2024/03/a-gravitational-waves-mock-data-challenge/)*
 
