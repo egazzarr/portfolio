@@ -12,4 +12,4 @@ The website is built with [hugo](https://gohugo.io); if you are interested in re
 - *layouts*: add photos and folders here wheneer you want to change images
 - *static*: contains the `css` theme and a folder with all the `images`
 
-In order to edit the site and publish it, change the contect of `layouts`. Run the `hugo serve -D` command on the terminal to view local edits. Run `hugo` from the directory where you have the `config.toml` file and it will update the `/docs` fodler, from which the `workflows` to build the website pick up. 
+In order to edit the site and publish it, change the content of `layouts`. Run the `hugo serve -D` command on the terminal to view local edits. Run `hugo` from the directory where you have the `config.toml` file and it will update the `/docs` fodler, from which the `workflows` to build the website pick up. 
